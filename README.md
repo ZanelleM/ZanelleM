@@ -6,8 +6,7 @@ Hi there! 👋 I'm Zanele Mangqangwana, and this is my GitHub profile.
 
 - **Name:** Zanele Mangqangwana
 - **Location:** Cape Town
-- **Occupation:** [Your Occupation or Role]
-- **Interests:** [Your Interests or Hobbies]
+- **Interests:**Learning New Technologies
 
 ## Contact Me
 
@@ -15,6 +14,7 @@ You can reach out to me via:
 - Cell no: 0781512665
 - Email: zanmangqangwana665@gmail.com
 - LinkedIn:www.linkedin.com/in/zanele-mangqangwana
+- Portfolio:https://portfolio-23b7c.web.app/
 
 
 ## Projects
