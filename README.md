@@ -6,7 +6,8 @@ Hi there! 👋 I'm Zanele Mangqangwana, and this is my GitHub profile.
 
 - **Name:** Zanele Mangqangwana
 - **Location:** Cape Town
-- **Interests:**Learning New Technologies
+ - **Occupation:** Junior Software Intern
+- **Interests:** Learning New Technologies
 
 ## Contact Me
 
@@ -22,7 +23,7 @@ You can reach out to me via:
 Here are some of the projects I'm currently working on or have contributed to:
 
 1. [react portfolio](https://portfolio-23b7c.web.app/) - This is my personal project that I created using HTML, CSS, JavaScript, and React.js. It serves as my portfolio to showcase my skills and projects.
-2. [Project Name 2](link-to-project-2) - Brief description.
+2. [E-learning platform](link-to-project-2) - Currently working in this project with my Group
 3. 
 
 <h3 align="left">Languages and Tools:</h3>
